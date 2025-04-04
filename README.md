@@ -21,7 +21,7 @@ Yatube - Это социальная сеть для блогеров. В кот
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/ausare-dev/api_yatube
+git clone https://github.com/MrHrapylka/api_yatube
 ```
 
 ```
